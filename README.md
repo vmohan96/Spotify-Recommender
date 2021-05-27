@@ -1,0 +1,2 @@
+# The Spotify API
+Hello! This is a project in the early stages which will be based around Spotify's API. I am aiming to build a recommendation system using the API, though I am still formulating ideas for some more interesting and precise goals for the project. Stay tuned!
